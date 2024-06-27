@@ -1,8 +1,8 @@
 ### Hi there 👋
-## I'm Machiko (真知子) and welcome to my Github!
+## I'm Machiko (真知子)/Bailey  and welcome to my Github!
 
 About me:
-- 😄 I am a senior at Bryn Mawr College majoring in Computer Science
+- 😄 I graduated from Bryn Mawr College and majored in Computer Science
 - 😄 I am also a Masters student at the University of Pennsylvania majoring in Computer and Information Science
 - 🌱 I am currently doing machine translation at the Miyao research group of the University of Tokyo
     - Check out what we do [here](https://mynlp.is.s.u-tokyo.ac.jp/ja/index)!
