@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Machiko (真知子)/Bailey  and welcome to my Github!
+## I'm Bailey/Machiko (真知子)  and welcome to my Github!
 
 About me:
 - 😄 I graduated from Bryn Mawr College and majored in Computer Science
