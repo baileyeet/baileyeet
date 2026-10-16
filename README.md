@@ -10,4 +10,4 @@ Previously:
 - I also conducted machine translation research at the Miyao research [group](https://mynlp.is.s.u-tokyo.ac.jp/ja/index) of the University of Tokyo, where I researched the effect of Japanese case markers on the robustness of Japanese-English MT.
 - Before this, I worked at NVIDIA on multi-object tracking algorithms and low level optimization 
 
-- You can reach me at machikohirota@alumni.upenn.edu !!!!!
+You can reach me at machikohirota@alumni.upenn.edu !!!!!
